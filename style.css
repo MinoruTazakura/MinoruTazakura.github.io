@@ -1,0 +1,24 @@
+.header {
+    width: 100%;
+}
+.wrapper {
+    width: auto;
+    margin: 30px 10px 50px 10px;
+}
+
+.main {
+    display: block;
+}
+
+.hr {
+    width: auto;
+    text-align: center;
+}
+
+.footer {
+    width: 100%;
+}
+
+.copyright {
+    text-align: center;
+}
