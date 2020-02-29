@@ -1,9 +1,10 @@
 .header {
+    margin: 0px auto 0px 10px;
     width: 100%;
 }
 .wrapper {
     width: auto;
-    margin: 30px 10px 50px 10px;
+    margin: 10px 15px 50px 15px;
 }
 
 .main {
