@@ -27,3 +27,9 @@
 .li-explanation {
     font-size: 1.0rem;
 }
+
+@media screen and (max-width: 480px) {
+    body {
+        background-color: #f2fde4;
+    }
+}
