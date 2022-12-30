@@ -25,10 +25,14 @@
 }
 
 .li-explanation {
-    font-size: 1.0rem;
+    font-size: 0.9em;
 }
 
 @media screen and (max-width: 480px) {
+    .wrapper {
+        margin: 10px 3px 50px 3px;
+    }
+
     body {
         background-color: #f2fde4;
     }
